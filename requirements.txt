@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+python-telegram-bot
+yfinance
+ccxt
+scikit-learn
+python-dotenv
