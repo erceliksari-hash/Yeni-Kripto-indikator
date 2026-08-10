@@ -1,0 +1,16 @@
+# Veritabanı ve Loglar
+*.db
+*.sqlite3
+*.log
+
+# Çevresel Değişkenler (Şifreler)
+.env
+
+# Geçici Grafik Dosyaları
+*.png
+*.jpg
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
