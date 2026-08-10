@@ -1,0 +1,9 @@
+{
+  "assets": [
+    {"category": "Kripto", "symbol": "BTC/USDT"},
+    {"category": "Kripto", "symbol": "ETH/USDT"},
+    {"category": "Kripto", "symbol": "SOL/USDT"},
+    {"category": "BIST", "symbol": "THYAO.IS"},
+    {"category": "NASDAQ", "symbol": "AAPL"}
+  ]
+}
